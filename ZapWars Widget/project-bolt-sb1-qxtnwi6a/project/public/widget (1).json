@@ -1,0 +1,15 @@
+{
+  "pubkey": "3a3df822360233363823b314db8565da83c7d19400d99164406fb8e75d7d8e5e",
+  "widget": {
+    "title": "ZapWars",
+    "appUrl": "https://thriving-gnome-a12015.netlify.app/",
+    "iconUrl": "https://image.nostr.build/1548f77406cd04f2234a6e28a6c55e8dbab168a6703b30835282740bf19b1f20.png",
+    "imageUrl": "https://image.nostr.build/3b93a5f297bf8650b66a7269f66898afaaa2e1c2b0b53b4020fe9b252ddb18f7.png",
+    "buttonTitle": "vote now",
+    "tags": [
+      "bitcoin",
+      "nostr",
+      "yakihonne"
+    ]
+  }
+}
